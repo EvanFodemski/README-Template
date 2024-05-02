@@ -10,7 +10,6 @@
 - [Built With](#built-with)
 - [License](#license)
 - [Contributing](#contributing)
-- [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
 ## Description
